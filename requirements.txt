@@ -1,0 +1,11 @@
+torch>=2.1
+numpy
+pandas
+scipy
+scikit-learn
+tqdm
+matplotlib
+huggingface_hub
+ijson
+rouge-score
+bert-score
